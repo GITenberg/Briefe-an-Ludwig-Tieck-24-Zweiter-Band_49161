@@ -1,10 +1,16 @@
 _repo: Briefe-an-Ludwig-Tieck-24-Zweiter-Band_49161
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49161-h/images/cover.jpg
 creator:
   author:
     agent_name: Holtei, Karl von
     gutenberg_agent_id: '45131'
     url: http://www.gutenberg.org/2009/agents/45131
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49161#Briefe-an-Ludwig-Tieck-24-Zweiter-Band
 gutenberg_issued: '2015-06-07'
 gutenberg_type: Text
 identifiers:
